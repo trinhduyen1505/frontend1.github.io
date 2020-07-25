@@ -1,0 +1,721 @@
+@media screen and (max-width: 482px){
+
+    header ul{
+        padding-top:5%!important;
+    }
+    header .search{
+        padding-top: 2%!important;
+    }
+    header .shopping-cart{
+        padding-top: 2%!important;
+    }
+    .dropbtn {
+        padding:10px 10px 10px 0px!important;
+      }
+    .content .banner .text{        
+        text-align: center!important;
+        padding-bottom: 5%!important;
+        }
+    .content .banner .text h5{
+        font-size: 35px!important;
+    }
+    .content .banner .text p{
+        padding:3% 15%!important;
+    }
+    
+    .content .view a{
+        padding:3% 4%!important;
+        margin-bottom: 2%!important;
+    }
+
+    .content .class-mate .item img{
+        width: 100%!important;
+        height: 300px!important;
+    }
+    .content .class-mate .item h3{
+        margin-left: 30%!important;
+    }
+    .content .class-mate .item h2{
+        padding-top: 18%!important;
+    }
+    .content .class-mate .item .img1 h2{
+        padding-left: 29%!important;
+    }
+    .content .class-mate .item .img2 h2{
+        padding-left: 5%!important;
+    }
+    .content .class-mate .item .img3 h2{
+        padding-left: 6%!important;
+    }
+    .content .class-mate .item .time{
+        padding-top: 33%!important;
+        padding-left: 22%!important;
+    
+    }
+    
+    .content .class-mate .item a{
+        margin-top: 48%!important;
+        margin-left: 39%!important;
+    }
+   
+    
+    .content .icon .container {
+        margin:120% 0% 50% 0%!important;
+    }
+    .content .icon .container .col-md-4{
+        padding-top:5%!important;
+    }
+    .content .icon img{
+        width:200px!important;
+        height:140px!important;
+    }
+
+    .content .icon h3{
+        font-size: 25px!important;
+    }
+    .content .icon p{
+        font-size: 14px!important;
+    }
+
+    
+    .content .review{
+        padding-top:90%!important;
+    }
+    .content .review .start-rating{
+        margin-top:75%!important;
+        margin-left: 64%!important;
+        border-radius: 3px!important;
+    }
+    .content .review h4{
+        font-size: 17px!important;
+    }
+    .content .review p{
+        font-size: 13px!important;
+    }
+
+    .content .cakes .cake img{
+        width:300px!important;
+        height:150px!important;
+    }
+    .content .cakes .cake .text h4 {
+        font-size: 15px!important;
+    }
+    .content .cakes .cake .text h5{
+        font-size: 13px!important;
+    }
+    .content .cakes .cake .text .link a{
+        font-size: 12px !important;
+    }
+
+    .content .info .item img{
+        margin-left: 44%!important;
+    }
+    .content .info .item p{
+        padding:0% 1%!important;
+    }
+    .content .contact input{
+        width: 420px!important;
+    }
+    .content .contact .send{
+        padding-left:50px!important;
+       
+    }
+    
+    .content .contact .social ul{
+        padding-top: 2%!important;
+        margin-left: 15%!important;
+    }
+    .content .contact .social ul li{
+         margin-right: 12%!important;
+         margin-top:10%!important;
+    }
+    
+    footer .row{
+        text-align: center!important;
+    }
+    footer .container img{
+        width: 95%;
+        height: 90%!important;
+        padding-top: 1%;
+    }
+    footer .container .last{
+        padding-top: 15%!important;
+    }
+}
+
+@media screen and (min-width: 789px){
+
+    header ul{
+        padding-top:2%!important;
+    }
+    header ul li a{
+        color:#5e3c3e!important;
+        font-family: Roboto Slab, sans-serif;
+        font-size: 14px;
+    }
+    header ul li a:hover{
+        color:#e47277!important;
+    }
+    header ul li .nav-item-active a{
+        color:#e47277!important;
+    }
+    header ul .logo {
+        margin-right: 17%!important;
+        padding-bottom: 5%!important;
+    }
+    header ul .logo img{
+        height:25px!important;
+    }
+    header ul .bg-light{
+        border-right: 1px solid #7a7a7a;
+        background: transparent!important;
+        margin-right: 2%!important;
+    }
+
+    header .search{
+        padding-top: 25px!important;
+    }
+    header .shopping-cart{
+        padding-top: 25px!important;
+    }
+
+    .content .banner .text{
+        padding-top:11%!important;
+    }
+    .content .banner .text p{
+        width: 90%!important;
+    }
+
+
+    .content .cakes .cake .text h4 {
+        padding:0% 2%!important;
+    }
+    .content .info .item p{
+        padding:0% 27%!important;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+header ul{
+    display: flex;
+    list-style-type: none;
+}
+header ul li a{
+    color:#5e3c3e!important;
+    font-family: Roboto Slab, sans-serif;
+    font-size: 14px;
+}
+header ul li a:hover{
+    color:#e47277!important;
+}
+header ul li .nav-item-active a{
+    color:#e47277!important;
+}
+header ul .logo {
+    margin-top: 3%;
+    margin-right: 28%;
+}
+header ul .bg-light{
+    border-right: 1px solid #7a7a7a;
+    background: transparent!important;
+}
+
+.dropbtn {
+    background-color: white;
+    color:#5e3c3e!important;
+    padding: 14px;
+    font-family: Roboto Slab, sans-serif;
+    font-size: 14px;
+    border:none;
+    cursor: pointer;
+  }
+  .dropbtn:hover{
+    color:#e47277!important;
+  }
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1;}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+
+.content .banner{
+    padding:7% 0% 17% 0%;
+    background: #F6E3CE;
+    margin-bottom: 5%;;
+}
+.content .banner img{
+    width: 100%;
+    height: 300px;
+}
+.content .banner .text h5{
+    color:#e47277;
+    line-height: 54px;
+    font-size: 54px;
+    font-family: Pacifico, sans-serif;
+    font-weight: normal;
+}
+.content .banner .text p{
+    color:#7a7a7a;
+    font-family: Roboto Slab, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding:3% 0%;
+}
+
+.content .banner .text a{
+    color:#e47277;
+    border:1px solid #e47277;
+    border-radius: 2px;
+    text-decoration: none;
+    line-height: 14px;
+    padding:2% 3%;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: 'Roboto Slab';
+}
+.content .banner .text a:hover{
+    color:white;
+    background:#e47277;
+}
+
+
+.content .icon .container {
+    position: absolute;
+    background:white;
+    margin-top:42%;
+    margin-left:5%;
+    padding:1%;
+}
+.content .icon .container .border{
+    border:1px #D8D8D8 dotted;
+    padding:2%;
+}
+.content .icon img{
+    width:100%;
+    height:90px;
+}
+.content .icon img:hover{
+   -webkit-transform:scale(1.25);-moz-transform:scale(1.25);-ms-transform:scale(1.25);-o-transform:scale(1.25);transform:scale(1.25);
+}
+.content .icon h3{
+    font-size: 22px;
+    color: #5e3c3e;
+    font-family: Pacifico, sans-serif;
+    font-weight: normal;
+}
+.content .icon p{
+    color: #7a7a7a;
+    font-family: Roboto, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+
+.content .class-mate{
+    padding-top:7%;
+}
+.content .class-mate .item img{
+    width: 100%;
+    height: 430px;
+}
+.content .class-mate .item h3{
+    position: absolute;
+    font-size: 20px;
+    color:#5a5a5a;
+    background: white;
+    padding: 1% 5%;
+    margin-top: 8%;
+    margin-left: 37%;
+}
+.content .class-mate .item h2{
+    position: absolute;
+    color: white;
+    font-size: 38px;
+    font-family: Pacifico, sans-serif;
+    font-weight: normal;
+    padding-top: 18%;
+}
+.content .class-mate .item .img1 h2{
+    padding-left: 40%;
+}
+.content .class-mate .item .img2 h2{
+    padding-left: 28%;
+}
+.content .class-mate .item .img3 h2{
+    padding-left: 29%;
+}
+.content .class-mate .item .time{
+    position: absolute;
+    color: white;
+    padding-top: 25%;
+    padding-left: 36%;
+
+}
+.content .class-mate .item ul{
+    display: flex;
+    list-style-type: none;
+} 
+.content .class-mate .item ul i{
+    font-size: 50px;
+    padding-right: 10px;
+}
+.content .class-mate .item a{
+    position: absolute;
+    background: #e47277;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Roboto, sans-serif;
+    font-size: 15px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 32%;
+    margin-left: 44%;
+}
+.content .class-mate .item a:hover{
+    background: none;
+    color: white;
+    border: 1px white solid;
+}
+
+.content .review{
+    padding:3% 0% 5% 0%;
+}
+.content .review .start-rating{
+    position: absolute;
+    background: white;
+    margin-top:68%;
+    margin-left: 20%;
+    padding:2%;
+}
+
+.content .review img{
+    width:100%;
+}
+.content .review a{
+    text-decoration: none;
+}
+.content .review h4{
+    color: #5e3c3e;
+    font-family: Roboto Slab, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+}
+.content .review h4 a:hover{
+    color:#e47277;
+}
+.content .review p{
+    color: #7a7a7a;
+    font-size: 12px;
+}
+.content .review p a{
+    color:#e47277;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.content .view{
+    text-align: center;
+}
+.content .view a{
+    color: white;
+    background: #e47277;
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding:1% 2%;
+    border-radius: 3px;
+}
+.content .view a:hover{
+    color: #e47277;
+    background: white;
+    border: 1px solid #e47277;
+}
+
+
+.content .center{
+    text-align: center;
+}
+.content .center h5{
+    font-weight: normal;
+    color: #2a2a2a;
+    margin-top: 0;
+    padding-top:3% ;
+    padding-bottom: 1%;
+    line-height: 100%;
+    font-family: Roboto Slab, sans-serif;
+    font-size: 20px;
+}
+
+.content .cakes{
+    padding-bottom: 5%;
+}
+.content .cakes .item{
+    text-align: center;
+}
+.content .cakes .cake img{
+    width:600px;
+    height:400px;
+}
+.content .cakes .cake{
+    border: 1px solid #dddddd;
+}
+.content .cakes .text{
+    padding-top:1%;
+}
+
+.content .cakes .cake .text h4 {
+    font-size: 18px;
+    font-family: Roboto Slab;
+    background: none;
+    border:none;
+}
+.content .cakes .cake .text h4 a{
+    color: #5e3c3e;
+}
+.content .cakes .cake .text h4 :hover{
+    color: #e47277;
+}
+.content .cakes .cake .text h5{
+    color: #e47277;
+    font-weight: 700;
+    font-size: 16px;
+    margin-bottom: 13%;
+}
+.content .cakes .cake .text .link a{
+    background: white;
+    color: #e47277;
+    text-decoration: none;
+    font-size: 12px;
+    text-transform: uppercase;
+    padding: 7% 8%;
+    border-radius: 5px;
+    border: 1px solid #dddddd;
+    font-weight: 700;
+    margin-top: 15%;
+}
+.content .cakes .text .link a:hover{
+    background:  #e47277;
+    color: white;
+}
+.content .cakes .container{
+    padding-top:2%;
+    padding-bottom: 1%;
+}
+
+
+
+/*info */
+
+.content .info{
+    background:#e47277;
+    color:white;
+}
+.content .info .item{
+    text-align: center;
+}
+.content .info .item img{
+    width:70px;
+    height: 70px;
+    margin-left: 47%;
+    border: 5px #f0b2b5 solid;
+    border-radius: 50px;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+.content .info .item h1{
+    padding-top: 3%;
+    font-size: 22px;
+    text-transform: uppercase;
+    font-family: Roboto Slab, sans-serif;
+}
+.content .info .item p{
+    font-size: 15px;
+    max-width: 100%;
+    font-family: Roboto, sans-serif;
+}
+
+
+
+
+.content .contact{
+    padding-top:5%;
+}
+.content .contact .mail .col-xs-2 a{
+    color:white;
+    background: #e47277; 
+    padding:10px 12px 10px 12px;
+    border-radius: 30px; 
+}
+.content .contact .mail .col-xs-2{
+    margin-top:5%;
+}
+.content .contact .mail h5{
+    color: #5a5a5a;
+    font-size: 16px;
+    line-height: 100%;
+    font-family: 'Roboto Slab';
+    text-transform: uppercase;
+}
+.content .contact .mail p{
+    color: #7a7a7a;
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 18px;
+    font-family: Roboto, sans-serif;
+}
+.content .contact .col-md-3{
+    padding-top:1%;
+}
+.content .contact input{
+    color: #857878;
+    font-size: 13px;
+    width:220px;
+    height:25px;
+    border:1px solid #e47277;
+}
+.content .contact .send{
+    color: #7a7a7a;
+    padding-left:38px;
+}
+
+.content .contact .col-md-4{
+    padding-top:1%;
+}
+.content .contact .social ul{
+    display: flex;
+    list-style-type: none;
+    color: white;
+    padding-top: 0%;
+    margin-left: 7%;
+}
+.content .contact .social ul li{
+     margin-right: 15%;
+}
+
+.content .contact .facebook{
+    /* background: #3b5999;  */
+    color:#3b5999;
+}
+.content .contact .twitter {
+    /* background: #61cae7;  */
+    color:#61cae7; 
+   
+}
+.content .contact .googleplus {
+    /* background: #f35633;  */
+    color: #f35633; 
+  
+}
+.content .contact .pinterest {
+    /* background: #d4232b;  */
+    color: #d4232b; 
+   
+}
+.content .contact .youtube {
+    /* background: #cc181e;  */
+    color: #cc181e; 
+  
+}
+
+
+
+
+
+
+
+footer{
+    background: #1b1b1b;
+    font-size:13px;
+    padding-top: 5%;
+    margin-top: 5%;
+    
+}
+
+footer .col-md-4 h5, .col-md-2 h5{
+    font-size: 16px;
+    color:white;
+}
+footer p{
+    color:#aaaaaa;
+    font-size: 13px;
+}
+
+footer .container a{
+    text-decoration: none;
+    color:white;
+}
+footer .container a:hover{
+    color: #e47277;
+}
+footer .container img{
+    width: 95%;
+    height: 60%;
+    padding-top: 1%;
+}
+footer .container .col-md-4 .row{
+   padding-bottom: 1%;
+}
+footer .container .last{
+    padding-top: 5%;
+}
+footer .container .last a{
+    text-decoration: none;
+    color:white;
+    font-size: 12px;
+}
